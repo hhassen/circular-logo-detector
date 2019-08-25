@@ -9,5 +9,5 @@ Name your logo: positive.png
 2. Extract region of interest ROI which are simply the content of each circle
 3. Extract local features of each ROI and compare them to those of the logo
 4. If we have enough similarities, then:
-i. Draw a box around that circle
-ii. Save the box coordinates in a csv file
+    * Draw a box around that circle
+    * Save the box coordinates in a csv file
