@@ -1,6 +1,8 @@
 # circular-logo-detector
 Detect circular logos in a video.
 
+[![circular-logo-detector video](https://i.ytimg.com/vi/X0GXfhVPFu0/hqdefault.jpg)](https://youtu.be/X0GXfhVPFu0 "Logo detector video test")
+
 Execute as follows : **detect.py -i positive.avi -o export.csv**
 Name your logo: positive.png
 
