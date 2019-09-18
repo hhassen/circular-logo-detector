@@ -13,3 +13,6 @@ Name your logo: positive.png
 4. If we have enough similarities, then:
     * Draw a box around that circle
     * Save the box coordinates in a csv file
+    
+In order to improve performance, this program do a threshold filter to the image before applying the Hough transform. As you can see in the next example, this helps to get rid of false positives.
+[![Hough circle detector workflow](https://i.ibb.co/0nFKXqJ/Compare.jpg)](https://ibb.co/b62F31d)
